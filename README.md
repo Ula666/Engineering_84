@@ -1,4 +1,4 @@
-# Interview perparation notes including questions and answers
+# Interview preparation notes including questions and answers
 ## Questions
 
 - __Question 1__: Tell me about yourself
