@@ -27,3 +27,26 @@ __Answer__: I am eager to continue developing my DevOps skills, working in a com
 __Answer__: Agile is a iterative approach to project management and software development
 Benefits: Better pproduct quality, higher customer satisfaction.
 
+
+- __Question 7__: What is a JOIN?
+__Answer__: JOIN is used to combine rows from two or more tables, based on a related column between them.
+
+
+- __Question 8__: What is a primary key and foreign key and their functions?
+__Answer__: Primary Key uniquely identifies each record in the table. There are two types of PK, simple and composite. It cannot be blank or NULL, value must never change.  
+Foreign Key is a field in one table, that refers to the Primary Key in another table. It's a constraint is used to prevent actions that would destroy links between tables.  
+
+
+- __Question 9__: What is DML, DDL, DCL and TLC?
+__Answer__: DML - Data Manipulation Language. Include most common SQL statements such SELECT, INSERT, UPDATE, DELETE.  
+DDL - Data Definition Language, deals with database schemas and descriptions, of how the data should reside in the database. Inlude CREATE, ALTER, DROP, TRUNCATE.  
+DCL - Data Control Language, include GRAND, REVOKE.  
+TCL - Transaction Control Language, include COMMIT, ROLLBACK, SAVEPOINT.  
+
+- __Question 10__: What is Normalisation?
+__Answer__: Normalisation is a process of organizing a database to reduce redundancy and improve data integrity. It simplifies the database design.  
+
+- __Question 11__: What is ERD?
+__Answer__: ERD (Entity Relational Diagram)is a type of structural diagram for use in database design. It shows the relationships of entity sets stored in a database.  
+
+
