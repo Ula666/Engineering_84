@@ -46,7 +46,19 @@ TCL - Transaction Control Language, include COMMIT, ROLLBACK, SAVEPOINT.
 - __Question 10__: What is Normalisation?  
 __Answer__: Normalisation is a process of organizing a database to reduce redundancy and improve data integrity. It simplifies the database design.  
 
+
 - __Question 11__: What is ERD?  
 __Answer__: ERD (Entity Relational Diagram)is a type of structural diagram for use in database design. It shows the relationships of entity sets stored in a database.  
+
+
+
+- __Question 12__: What is a Git?  
+__Answer__: Git is a version control system. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time.  
+
+
+- __Question 13__: What is a Github?  
+__Answer__: Github is an online repository saved on a cloud. It makes it a lot easier for individuals and teams to use Git for version control and collaboration.  
+
+
 
 
