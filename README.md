@@ -59,6 +59,9 @@ __Answer__: Git is a version control system. Every time you save your work, Git 
 - __Question 13__: What is a Github?  
 __Answer__: Github is an online repository saved on a cloud. It makes it a lot easier for individuals and teams to use Git for version control and collaboration.  
 
+![image](https://user-images.githubusercontent.com/47173937/111988677-ad64dd80-8b08-11eb-8e5b-74864ab914f6.png)
+
+
 
 
 
