@@ -54,7 +54,7 @@ __Answer__: ERD (Entity Relational Diagram)is a type of structural diagram for u
 
 
 - __Question 12__: What is Git?  
-__Answer__: Git is a version control system. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time.  
+__Answer__: Git is a version control system. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time.  Benefits: allows you to work with many people on one project
 
 
 - __Question 13__: What is Github?  
