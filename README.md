@@ -16,7 +16,7 @@ __Answer__:  Because Sparta is diverse company that supports equality. Besides I
 
 - ### __Question 4__: What is SCRUM and benefits of implementing it?  
 __Answer__: Scrum is a team based framework to develop complex systems and products.  
-**Benefits:** Better product quality, reduced risk, improved customer satisfaction.  
+- **Benefits:** Better product quality, reduced risk, improved customer satisfaction.  
 - **scrum roles:** Scrum Master, Product Owner, Development Team
 - **scrum events:** Sprint PlanningDaily Scrum, Sprint Review, Sprint Retrospective, The Sprint
 - **3 scrum artifacts:** Product Backlog, Sprint Backlog, Product Increment  
@@ -27,9 +27,14 @@ __Answer__: I am eager to continue developing my DevOps skills, working in a com
 
 
 - ### __Question 6__: What is Agile and benefits of implementing it?  
-__Answer__: Agile is a iterative approach to project management and software development
-**Benefits:** Better pproduct quality, higher customer satisfaction.
-**Agile Values:** (Individuals and interactions over processes and tools,  Software over documentation, Customer Collaboration over contract negotiation, Responding to Change over following a plan)
+__Answer__: Agile is a iterative approach to project management and software development  
+- **Benefits:** Better pproduct quality, higher customer satisfaction.  
+- **Agile Values:** (Individuals and interactions over processes and tools,  Software over documentation, Customer Collaboration over contract negotiation, Responding to Change over following a plan)
+
+- ### __Question 7__: Exaplain 3 amigos
+**Business** – What problem are we trying to solve?  
+**Development** – How might we build a solution to solve that problem?  
+**Testing** – What about this, what could possibly happen?  
 
 
 - ### __Question 7__: What is a JOIN?  
