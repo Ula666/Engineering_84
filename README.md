@@ -23,7 +23,7 @@ __Answer__: Scrum is a team based framework to develop complex systems and produ
 
 
 - ### __Question__ 5: Where do you see yourself in 2 - 5 years time?  
-__Answer__: I am eager to continue developing my DevOps skills, working in a company where I can grow. Preferably working towards a role more related to cybesecurity like a cyber security engineer. 
+__Answer__: Firstly I would like to finish the sparta training. Then for the next two years I would like to develop my skills and gain practical experience as a Junior DevOps Consultant. After that I would like to develop from a Junior role into the DevOps Consultant. I am eager to continue developing my DevOps skills, working in a company where I can grow.   
 
 
 - ### __Question 6__: What is Agile and benefits of implementing it?  
@@ -91,9 +91,11 @@ __Answer__: PIP is a standard package manager for Python. It allows to install a
 
 - ### __Question 18__: Four pillars of OOP   
 __Answer__:    
-**Abstraction:** - is the process of showing only essential/necessary features of an entity/object to the outside world and hide the other irrelevant information.  
-**Encapsulation:** - Makes data private from user. Providing security to data by making the variable as private and expose the property to access the private data which would be public.  
-**Inheritance:** - The ability of creating a new class from an existing class. Inherit attributes(variables) and methods(behaviours) from a parent class.  
-**Polymorphism:** - Inherit from a parent class as well as override the data. A subclass can define its own unique behavior and still share the same functionalities or behavior of its parent/base class.  
+- **Abstraction:** - is the process of showing only essential/necessary features of an entity/object to the outside world and hide the other irrelevant information.  
+**Example**: A radio has a tuner, an antenna, a volume control, and an on/off switch. To use it, you don't need to know that the antenna captures radio frequency signals, converts them to electrical signals, and then boosts their strength. In other words, you can say that the radio is an object that was designed to hide its complexity.  
+- **Encapsulation:** - Is a process of wrapping the data and the code. It's an OOP concept which binds data and functions into a single component while restricting access to some components. The implementation of an object is hidden from the rest of the program. It keeps the data and the code safe from external interference. The main purpose or use of the encapsulation is to provide the security to the data of a class.      
+**Example**: Driving a car. Do you need to know exactly how every aspect of a car works (engine, alternator, and so on)? No - you need to know how to use the steering wheel, brakes, accelerator, and so on.  
+- **Inheritance:** - The ability of creating a new class from an existing class. Inherit attributes(variables) and methods(behaviours) from a parent class.  
+- **Polymorphism:** - Inherit from a parent class as well as override the data. A subclass can define its own unique behavior and still share the same functionalities or behavior of its parent/base class.  
 
 
