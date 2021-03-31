@@ -66,30 +66,38 @@ __Answer__: ERD (Entity Relational Diagram)is a type of structural diagram for u
 __Answer__: Git is one of most popular version control systems. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time. Imagine Git as a tree structure where each commit creates a new node in that tree. Nearly all Git commands actually serve to navigate on this tree and to manipulate it accordingly. Benefits: allows you to work with many people on one project.  
 
 
-- ### __Question 13__: What is Github?  
+- ### __Question 13__: Explain Lists, Tuples, Dictonaries and what are the differences between them?    
+__Answer__:  - List is a datatype available in Python which can be written as a list of comma-separated values between square brackets.
+List are mutable .i.e it can be converted into another data type and can store any data element in it. List can store any type of element.  
+- Tuple is the sequence of values stored in a tuple can be of any type, and they are indexed by integers. Values of a tuple are separated by ‘commas’ and stored in parentheses. The main characteristics of tuples are – is immutable, it cannot be changed or replaced since it is immutable, It is defined under parenthesis(), Tuples can store any type of element.  
+- Set is an unordered collection of data type that is iterable, mutable, and has no duplicate elements. The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set. The main characteristics of set are – Sets are an unordered collection of elements or unintended collection of items In python. It is defined under curly braces{}. Sets are mutable, however, only immutable objects can be stored in it.   
+
+
+- ### __Question 14__: What is Github?   
 __Answer__: Github is an online repository saved on a cloud. It makes it a lot easier for individuals and teams to use Git for version control and collaboration. It’s primary function is to allow developers to upload and maintain software.  
 
 
-- ### __Question 14__: What is OOP and why should we use it?  
+
+- ### __Question 15__: What is OOP and why should we use it?  
 __Answer__: Object-oriented programming (OOP) refers to a programming methodology based on objects, instead of just functions and procedures. These objects are organized into classes, which allow individual objects to be grouped together. 
 Benefits: Re-usability (Data Redundancy, Code Maintenance, Security, Easy troubleshooting)  
 
 
-- ### __Question 15__: What is an API and why should we use it?    
+- ### __Question 16__: What is an API and why should we use it?    
 __Answer__: API (Application Programming Interface) is a set of commands, functions, protocols, and objects that programmers can use to create software or interact with an external system. It provides developers with standard commands for performing common operations so they do not have to write the code from scratch.  
 
 
-- ### __Question 16__: Python packages and modules.  
+- ### __Question 17__: Python packages and modules.  
 __Answer__:   
 **Package**, is a simple directory having collections of modules. This directory contains Python modules and also having __init__.py file by which the interpreter interprets it as a Package.   
 **Module** is a Python file that contains collections of functions and global variables and with having a .py extension file.  
 
 
-- ### __Question 17__: What is PIP?  
+- ### __Question 18__: What is PIP?  
 __Answer__: PIP is a standard package manager for Python. It allows to install and manage additional packages that are not part of the Python standard library. 
 
 
-- ### __Question 18__: Four pillars of OOP   
+- ### __Question 19__: Four pillars of OOP   
 __Answer__:    
 - **Abstraction:** - is the process of showing only essential/necessary features of an entity/object to the outside world and hide the other irrelevant information.  
 **Example**: A radio has a tuner, an antenna, a volume control, and an on/off switch. To use it, you don't need to know that the antenna captures radio frequency signals, converts them to electrical signals, and then boosts their strength. In other words, you can say that the radio is an object that was designed to hide its complexity.  
