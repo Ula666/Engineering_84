@@ -2,7 +2,7 @@
 ## Questions
 
 - ### __Question 1__: Tell me about yourself  
-__Answer__: I am a recent graduate from Bournemouth University with a degree in computer science. I worked for few years as a dual language technical support advisor and I also have some experience in Linux support. I'm passionate about software development, cybersecurity and psychology. 
+__Answer__: I am a recent graduate from Bournemouth University with a degree in computer science. I worked for few years as a dual language technical support advisor and I also have some experience in Linux support. I'm passionate about software development, cybersecurity and psychology. Back at University I was a memeber of cybersecurity club, where I learn different Linux opertaing systems. In my free time, I love to play board games and video games. And I also like trekking. 
 
 
 - ### __Question 2__: What is DevOps and the benefits of using it?  
@@ -38,7 +38,7 @@ __Answer__: Agile is a iterative approach to project management and software dev
 
 
 - ### __Question 7__: What is a JOIN?  
-__Answer__: JOIN is used to combine rows from two or more tables, based on a related column between them.
+__Answer__: JOIN is used to combine rows from two or more tables, based on a related column between them. There are four types of joins: inner join, left join, right join and full join.  
 
 
 - ### __Question 8__: What is a primary key and foreign key and their functions?  
@@ -54,7 +54,7 @@ __Answer__:
 **TCL** - Transaction Control Language, include COMMIT, ROLLBACK, SAVEPOINT.  
 
 - ### __Question 10__: What is Normalisation?  
-__Answer__: Normalisation is a process of organizing a database to reduce redundancy and improve data integrity. It simplifies the database design.  
+__Answer__: Normalisation is a process of organizing a database to reduce redundancy and improve data integrity. It simplifies the database design. The most popular are 1NF, 2NF and 3.  
 
 
 - ### __Question 11__: What is ERD?  
@@ -63,11 +63,11 @@ __Answer__: ERD (Entity Relational Diagram)is a type of structural diagram for u
 
 
 - ### __Question 12__: What is Git?  
-__Answer__: Git is a version control system. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time.  Benefits: allows you to work with many people on one project
+__Answer__: Git is one of most popular version control systems. Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time. Imagine Git as a tree structure where each commit creates a new node in that tree. Nearly all Git commands actually serve to navigate on this tree and to manipulate it accordingly. Benefits: allows you to work with many people on one project.  
 
 
 - ### __Question 13__: What is Github?  
-__Answer__: Github is an online repository saved on a cloud. It makes it a lot easier for individuals and teams to use Git for version control and collaboration.   
+__Answer__: Github is an online repository saved on a cloud. It makes it a lot easier for individuals and teams to use Git for version control and collaboration. It’s primary function is to allow developers to upload and maintain software.  
 
 
 - ### __Question 14__: What is OOP and why should we use it?  
