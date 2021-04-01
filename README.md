@@ -14,6 +14,13 @@ __Answer__: Is a combination of software development and IT operations. It aims 
 __Answer__:  Because Sparta is diverse company that supports equality. Besides I really like Sparta's training program which I think It's a perfect preparation for any graduate intrested to work in technology sector.
 
 
+- ### __Question 3__: Consultant skills?  
+__Answer__:  **Communication skills** – technology consultants should also be strong written and verbal communicators, since they interact with personnel throughout their clients’ organizations and frequently work with technology vendors  
+- **Experience with infrastructure automation tools** A DevOps engineer must possess the ability to implement automation technologies and tools at any level, from requirements to development to testing and operations.   
+- **Cloud, Scripting and Linux Skills**  
+
+
+
 - ### __Question 4__: What is SCRUM and benefits of implementing it?  
 __Answer__: Scrum is a team based framework to develop complex systems and products.  
 - **Benefits:** Better product quality, reduced risk, improved customer satisfaction.  
