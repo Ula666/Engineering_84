@@ -10,7 +10,7 @@ __Answer__: Is a combination of software development and IT operations. It aims 
 **Benefits:** Faster delivery time, continuous release and deployment, high collaboration between teams.  
 
 - ### __Question 2a__: Explain the role of DevOps     
-__Answer__: DevOps is a software development methodology that uses communication to integrate software developers (dev) and IT infrastructure professionals (ops). It someone  who creates and maintains synergy of Dev, QA, and Ops departments within the IT organization aiming to improve the software delivery process. Their efforts should ideally result in increased speed of delivery, improved release quality, reduced cost, and minimized operational failures, which is achieved by automating development and delivery pipelines through technology and enhanced collaboration.  
+__Answer__: DevOps is a software development methodology that uses communication to integrate software developers (dev) and IT infrastructure professionals (ops). It's someone  who creates and maintains cooperation of Developers and Operations departments within the IT organization aiming to improve the software delivery process in alignment with the CI/CD pipeline. Their efforts should ideally result in increased speed of delivery, improved release quality, reduced cost, and minimized operational failures, which is achieved by automating development and delivery pipelines through technology and enhanced collaboration.  
 
 
 - ### __Question 3__: Why Sparta?  
