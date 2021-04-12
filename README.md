@@ -9,6 +9,9 @@ __Answer__: I am a recent graduate from Bournemouth University with a degree in 
 __Answer__: Is a combination of software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
 **Benefits:** Faster delivery time, continuous release and deployment, high collaboration between teams.  
 
+- ### __Question 2a__: Explain the role of DevOps     
+__Answer__: DevOps is a software development methodology that uses communication to integrate software developers (dev) and IT infrastructure professionals (ops). It someone  who creates and maintains synergy of Dev, QA, and Ops departments within the IT organization aiming to improve the software delivery process. Their efforts should ideally result in increased speed of delivery, improved release quality, reduced cost, and minimized operational failures, which is achieved by automating development and delivery pipelines through technology and enhanced collaboration.  
+
 
 - ### __Question 3__: Why Sparta?  
 __Answer__:  Because Sparta is diverse company that supports equality. Besides I really like Sparta's training program which I think It's a perfect preparation for any graduate intrested to work in technology sector.
@@ -24,16 +27,17 @@ __Answer__:  **Communication skills** – technology consultants should also be 
 __Answer__: I a bit shy, but I'm constantly working on it. Even during my University I practiced many times. Group work, presentations, group discussions.    
 
 
-- ### __Question 6__: What is SCRUM and benefits of implementing it?  
+- ### __Question 6__: Where do you see yourself in 2 - 5 years time?  
+__Answer__: Firstly I would like to finish the sparta training. Then for the next two years I would like to develop my skills and gain practical experience as a Junior DevOps Consultant. After that I would like to develop from a Junior role into the DevOps Consultant. I am eager to continue developing my DevOps skills, working in a company where I can grow.  
+
+
+- ### __Question 7__: What is SCRUM and benefits of implementing it?  
 __Answer__: Scrum is a team based framework to develop complex systems and products.  
 - **Benefits:** Better product quality, reduced risk, improved customer satisfaction.  
 - **scrum roles:** Scrum Master, Product Owner, Development Team
 - **scrum events:** Sprint PlanningDaily Scrum, Sprint Review, Sprint Retrospective, The Sprint
 - **3 scrum artifacts:** Product Backlog, Sprint Backlog, Product Increment  
 
-
-- ### __Question__ 7: Where do you see yourself in 2 - 5 years time?  
-__Answer__: Firstly I would like to finish the sparta training. Then for the next two years I would like to develop my skills and gain practical experience as a Junior DevOps Consultant. After that I would like to develop from a Junior role into the DevOps Consultant. I am eager to continue developing my DevOps skills, working in a company where I can grow.   
 
 
 - ### __Question 8__: What is Agile and benefits of implementing it?  
@@ -116,6 +120,7 @@ __Answer__:
 - **Inheritance:** - The ability of creating a new class from an existing class. Inherit attributes(variables) and methods(behaviours) from a parent class.  
 - **Polymorphism:** - Inherit from a parent class as well as override the data. A subclass can define its own unique behavior and still share the same functionalities or behavior of its parent/base class.  
 
+
 - ### __Question 23__: What is Cloud Computing and why should we use it?    
 __Answer__: Cloud computing is the delivery of computing services – including servers, storage, databases, networking, software, analytics and intelligence – over the Internet (“the cloud”) to offer faster innovation, flexible resources and economies of scale.  
 
@@ -128,10 +133,6 @@ __Answer__:
 - **MVT** - During the Airport project we implmented Model View Tepmlate pattern which breaks the code into various segments. Here we have 3 segments, model view and a controller. It's very useful becuase allows developers to change the visual part of an app and the business logic part separately, without their affecting one another.  
 
 
-- ### __Question 25__: Explain the role of DevOps     
-__Answer__: DevOps is a software development methodology that uses communication to integrate software developers (dev) and IT infrastructure professionals (ops). It someone  who creates and maintains synergy of Dev, QA, and Ops departments within the IT organization aiming to improve the software delivery process. Their efforts should ideally result in increased speed of delivery, improved release quality, reduced cost, and minimized operational failures, which is achieved by automating development and delivery pipelines through technology and enhanced collaboration.  
 
 
-
-- 
 
