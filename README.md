@@ -7,7 +7,9 @@ __Answer__: I am a recent graduate from Bournemouth University with a degree in 
 
 - ### __Question 2__: What is DevOps and the benefits of using it?  
 __Answer__: Is a combination of software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
-**Benefits:** Faster delivery time, continuous release and deployment, high collaboration between teams.  
+**Benefits:** Faster delivery time, continuous release and deployment, high collaboration between teams and Simplify Communication and Collaboration, Decreased rate of failures and fixes in DevOps :The automated development and testing process help businesses to reduce both testing time and cost incurred on the project. The early detection of errors shortens the development cycle and helps in the frequent deployment of codes.  
+
+
 
 - ### __Question 2a__: Explain the role of DevOps     
 __Answer__: DevOps is a software development methodology that uses communication to integrate software developers (dev) and IT infrastructure professionals (ops). It's someone  who creates and maintains cooperation of Developers and Operations departments within the IT organization aiming to improve the software delivery process in alignment with the CI/CD pipeline. Their efforts should ideally result in increased speed of delivery, improved release quality, reduced cost, and minimized operational failures, which is achieved by automating development and delivery pipelines through technology and enhanced collaboration.  
